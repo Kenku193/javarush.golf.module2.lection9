@@ -1,0 +1,13 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+*.jrtc
+*.info
+*.properties
+
+/out/
+/out.log
+/out.log.*
